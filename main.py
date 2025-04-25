@@ -200,7 +200,7 @@ def main():
     #cerrar navegador
     driver.quit()
     df = pd.DataFrame(data_total)
-    nombre_archivo = "pgh_data_csv"
+    nombre_archivo = "pgh_data.csv"
     # Guardar en CSV
     df.to_csv(nombre_archivo, index=False, encoding='utf-8-sig')
     print(f"Archivo guardado como: {nombre_archivo}")

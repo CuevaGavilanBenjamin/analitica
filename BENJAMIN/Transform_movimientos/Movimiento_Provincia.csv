@@ -1,0 +1,197 @@
+Código,Departamento,Provincia,Aún no había nacido,"Sí, vivía hace 5 años en este distrito",No vivía hace 5 años en este distrito
+101,Amazonas,Chachapoyas,4519,41295,9692
+102,Amazonas,Bagua,7761,61137,5202
+103,Amazonas,Bongara,2226,20145,3266
+104,Amazonas,Condorcanqui,6693,34708,1069
+105,Amazonas,Luya,4325,36941,3170
+106,Amazonas,Mendoza,2864,23616,3518
+107,Amazonas,Utcubamba,10294,88263,8680
+201,Áncash,Huaraz,14223,131914,17799
+202,Áncash,Aija,478,5491,347
+203,Áncash,Raymondi,1385,11618,647
+204,Áncash,Asunción,591,6332,455
+205,Áncash,Bolognesi,1792,19711,2294
+206,Áncash,Carhuaz,3872,39177,2135
+207,Áncash,Fitzcarrald,1601,15529,587
+208,Áncash,Casma,4707,42182,4100
+209,Áncash,Corongo,633,6109,790
+210,Áncash,Huari,5092,47773,5849
+211,Áncash,Huarmey,2696,24868,2996
+212,Áncash,Huaylas,4685,44028,2621
+213,Áncash,Luzuriaga,1828,17896,560
+214,Áncash,Ocros,544,5816,679
+215,Áncash,Pallasca,2301,20063,1127
+216,Áncash,Pomabamba,2219,21661,914
+217,Áncash,Recuay,1330,14753,1102
+218,Áncash,Santa,36005,362850,36952
+219,Áncash,Sihuas,2577,23438,956
+220,Áncash,Yungay,4415,44333,2093
+301,Apurímac,Abancay,9429,84863,16228
+302,Apurímac,Andahuaylas,13067,118287,11123
+303,Apurímac,Antabamba,827,9549,934
+304,Apurímac,Aymaraes,1820,19853,2634
+305,Apurímac,Cotabambas,4658,39916,6082
+306,Apurímac,Chincheros,4265,38143,2839
+307,Apurímac,Grau,1611,18362,1269
+401,Arequipa,Arequipa,84338,797296,199001
+402,Arequipa,Camaná,5077,43523,10770
+403,Arequipa,Caravelí,3552,29001,8793
+404,Arequipa,Castilla,2721,26506,4402
+405,Arequipa,Caylloma,7866,66697,12208
+406,Arequipa,Condesuyos,1197,12062,2859
+407,Arequipa,Islay,3872,41973,6189
+408,Arequipa,Unión,1148,10415,1264
+501,Ayacucho,Huamanga,25345,217321,39528
+502,Ayacucho,Cangallo,2630,26244,1569
+503,Ayacucho,Sancos,569,7243,597
+504,Ayacucho,Huanta,8601,70919,9946
+505,Ayacucho,Mar,6793,56101,7759
+506,Ayacucho,Lucanas,3941,42188,5199
+507,Ayacucho,Parinacochas,2196,22028,3435
+508,Ayacucho,Sara,711,7511,1387
+509,Ayacucho,Sucre,691,7934,820
+510,Ayacucho,Fajardo,1446,17398,1265
+511,Ayacucho,Huamán,1277,14882,702
+601,Cajamarca,Cajamarca,33047,287604,27782
+602,Cajamarca,Cajabamba,8251,63720,3716
+603,Cajamarca,Celendín,7337,67364,4383
+604,Cajamarca,Chota,12100,125235,5649
+605,Cajamarca,Contumazá,2307,24045,1341
+606,Cajamarca,Cutervo,10103,106366,4254
+607,Cajamarca,Hualgayoc,6037,69688,2219
+608,Cajamarca,Jaén,17240,152557,15635
+609,Cajamarca,Ignacio,14120,110285,6215
+610,Cajamarca,Marcos,4623,40781,2699
+611,Cajamarca,Miguel,3527,40835,1681
+612,Cajamarca,Pablo,1867,18698,537
+613,Cajamarca,Cruz,2903,32000,2261
+701,Provincia Constitucional del Callao,Callao,78810,784441,131243
+801,Cusco,Cusco,36800,310429,100359
+802,Cusco,Acomayo,1749,19871,1320
+803,Cusco,Anta,4941,46146,5119
+804,Cusco,Calca,5539,52445,5171
+805,Cusco,Canas,2452,29075,957
+806,Cusco,Canchis,7746,80079,7949
+807,Cusco,Chumbivilcas,5319,57272,3819
+808,Cusco,Espinar,5263,45782,6537
+809,Cusco,Convención,11697,122160,13291
+810,Cusco,Paruro,1918,22512,1137
+811,Cusco,Paucartambo,4463,36728,1313
+812,Cusco,Quispicanchi,8641,73348,5441
+813,Cusco,Urubamba,5364,47564,7811
+901,Huancavelica,Huancavelica,10205,96874,7975
+902,Huancavelica,Acobamba,3577,32728,1903
+903,Huancavelica,Angaraes,4865,41985,2357
+904,Huancavelica,Castrovirreyna,1238,11714,1030
+905,Huancavelica,Churcampa,2998,27813,1727
+906,Huancavelica,Huaytará,1377,14903,967
+907,Huancavelica,Tayacaja,7455,69078,4870
+1001,Huánuco,Huánuco,26044,228449,38904
+1002,Huánuco,Ambo,4921,42340,3619
+1003,Huánuco,Mayo,3129,28625,1504
+1004,Huánuco,Huacaybamba,1597,14389,565
+1005,Huánuco,Huamalíes,4950,44577,2512
+1006,Huánuco,Prado,11604,99351,16838
+1007,Huánuco,Marañón,2870,21234,2518
+1008,Huánuco,Pachitea,5294,42085,1780
+1009,Huánuco,Inca,3954,24388,4196
+1010,Huánuco,Lauricocha,1644,15979,1290
+1011,Huánuco,Yarowilca,1721,17780,396
+1101,Ica,Ica,34064,305628,51827
+1102,Ica,Chincha,22331,183629,20153
+1103,Ica,Nazca,6009,54001,9147
+1104,Ica,Palpa,1149,10945,1138
+1105,Ica,Pisco,15028,122513,13203
+1201,Junín,Huancayo,44714,414751,86150
+1202,Junín,Concepción,4808,45505,5278
+1203,Junín,Chanchamayo,13939,121866,15684
+1204,Junín,Jauja,6635,68102,8520
+1205,Junín,Junín,1936,19446,1751
+1206,Junín,Satipo,25670,163088,15227
+1207,Junín,Tarma,7246,75451,6893
+1208,Junín,Yauli,2905,30705,6780
+1209,Junín,Chupaca,4348,41959,6681
+1301,La Lbertad,Trujillo,81449,767129,121438
+1302,La Lbertad,Ascope,9784,98496,7506
+1303,La Lbertad,Bolívar,1605,12016,836
+1304,La Lbertad,Chepén,6355,66066,5997
+1305,La Lbertad,Julcán,3009,24639,376
+1306,La Lbertad,Otuzco,7690,68528,1644
+1307,La Lbertad,Pacasmayo,8755,85414,8728
+1308,La Lbertad,Pataz,7926,60030,8147
+1309,La Lbertad,Carrión,17653,120560,6192
+1310,La Lbertad,Chuco,5175,43378,2343
+1311,La Lbertad,Chimú,2460,23036,1396
+1312,La Lbertad,Virú,10379,70562,11383
+1401,Lambayeque,Chiclayo,64450,649045,86180
+1402,Lambayeque,Ferreñafe,9984,81177,6254
+1403,Lambayeque,Lambayeque,32707,246559,20904
+1501,Lima,Lima,618101,6587608,1369265
+1502,Lima,Barranca,12210,118167,14004
+1503,Lima,Cajatambo,495,5632,432
+1504,Lima,Canta,851,9524,1173
+1505,Lima,Cañete,22016,191418,26579
+1506,Lima,Huaral,14768,153428,15702
+1507,Lima,Huarochirí,4586,46881,6678
+1508,Lima,Huaura,19549,178089,30047
+1509,Lima,Oyón,1456,13630,2653
+1510,Lima,Yauyos,1311,16531,2621
+1601,Loreto,Maynas,47568,380682,51616
+1602,Loreto,Amazonas,15548,96925,10252
+1603,Loreto,Loreto,8462,50836,3139
+1604,Loreto,Castilla,6412,40746,1914
+1605,Loreto,Requena,7657,48196,2658
+1606,Loreto,Ucayali,6859,44623,3155
+1607,Loreto,Marañón,7504,38764,2214
+1608,Loreto,Putumayo,950,6109,721
+1701,Madre de Dios,Tambopata,11328,81223,18923
+1702,Madre de Dios,Manu,2052,12774,3723
+1703,Madre de Dios,Tahuamanu,1140,7228,2679
+1801,Moquegua,Nieto,6276,67614,11459
+1802,Moquegua,Cerro,964,12656,1245
+1803,Moquegua,Ilo,5784,61391,7474
+1901,Pasco,Pasco,10593,100789,11633
+1902,Pasco,Carrión,2844,39454,1282
+1903,Pasco,Oxapampa,9180,68412,9878
+2001,Piura,Piura,75400,611075,112846
+2002,Piura,Ayabaca,12656,103804,2827
+2003,Piura,Huancabamba,11291,96688,3522
+2004,Piura,Morropón,15226,139176,7625
+2005,Piura,Paita,14128,108875,6889
+2006,Piura,Sullana,27970,268258,15226
+2007,Piura,Talara,13051,119444,11655
+2008,Piura,Sechura,10058,65097,4022
+2101,Puno,Puno,15571,188371,15552
+2102,Puno,Azángaro,9070,98135,3187
+2103,Puno,Carabaya,6412,63702,3208
+2104,Puno,Chucuito,5972,80124,2906
+2105,Puno,Collao,3880,57874,2124
+2106,Puno,Huancané,3784,52061,1806
+2107,Puno,Lampa,3403,35347,2106
+2108,Puno,Melgar,5017,57589,4532
+2109,Puno,Moho,1029,18319,405
+2110,Puno,Putina,2630,28759,4724
+2111,Puno,Román,26606,213737,67074
+2112,Puno,Sandia,4077,43389,3276
+2113,Puno,Yunguyo,2211,33502,1226
+2201,San Martín,Moyobamba,12061,97410,12894
+2202,San Martín,Bellavista,5961,43135,5937
+2203,San Martín,Dorado,4075,30440,2237
+2204,San Martín,Huallaga,2719,21922,2865
+2205,San Martín,Lamas,8231,67525,5765
+2206,San Martín,Cáceres,6761,50117,7748
+2207,San Martín,Picota,4267,31724,4554
+2208,San Martín,Rioja,13204,95173,14167
+2209,San Martín,Martín,17126,142432,33537
+2210,San Martín,Tocache,6912,52949,9533
+2301,Tacna,Tacna,22398,236362,47603
+2302,Tacna,Candarave,345,5422,335
+2303,Tacna,Basadre,748,7516,2509
+2304,Tacna,Tarata,333,4663,1098
+2401,Tumbes,Tumbes,14209,129493,11260
+2402,Tumbes,Villar,2083,16505,2469
+2403,Tumbes,Zarumilla,5403,38218,5223
+2501,Ucayali,Portillo,41662,293454,49052
+2502,Ucayali,Atalaya,7529,38079,3716
+2503,Ucayali,Abad,6923,45314,7870
+2504,Ucayali,Purús,370,2332,158
